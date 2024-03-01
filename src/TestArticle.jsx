@@ -45,7 +45,7 @@ const TestArticle = () => {
             }
         </div>
         {data.isLoading && <div style={{ display: "flex", alignItems: "center" }}>
-            <h1 style={{ color: "red" }}>Loading......</h1>
+            <h1 style={{ color: "red" }}>Loading*****</h1> 
         </div>}
 
     </div>
